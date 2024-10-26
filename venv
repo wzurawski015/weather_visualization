@@ -1,0 +1,4 @@
+# Weather forecast visualization
+python -m venv venv_wfv
+source venv_wfv/bin/activate
+pip install -r requirements.txt
